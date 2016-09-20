@@ -1,2 +1,2 @@
 # NerdLauncher
-A android applications launcher
+An android applications launcher
